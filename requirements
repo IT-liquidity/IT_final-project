@@ -1,0 +1,5 @@
+Для выполнения кода необходимо загрузить следующие библиотеки: 
+pandas
+matplotlib
+sqlalchemy
+python-dateutil
