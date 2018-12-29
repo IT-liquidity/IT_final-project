@@ -3,3 +3,4 @@ pandas
 matplotlib
 sqlalchemy
 python-dateutil
+sqlalchemy была установлена по ссылке: https://www.sqlalchemy.org/download.html
