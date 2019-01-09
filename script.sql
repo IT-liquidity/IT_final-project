@@ -264,22 +264,3 @@ select MAX(VOLUME) from ordinary_shares1 where SECCODE='GAZP' ORDER BY PRICE>0 A
 #Данные заявки имеют цену больше 0.
 use exercise1;
 select min(VOLUME) from ordinary_shares1 where SECCODE='GAZP' ORDER BY PRICE>0 AND TRADEPRICE>0 AND TRADENO>0;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
