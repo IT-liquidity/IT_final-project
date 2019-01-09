@@ -269,5 +269,3 @@ plt.xlabel('Bid_ask_spread')
 plt.legend()
 plt.show()
 savefig('Histogram_bid_ask_spread.png')
-
- 
